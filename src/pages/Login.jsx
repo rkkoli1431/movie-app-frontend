@@ -114,13 +114,13 @@ const Login = () => {
           </Button>
         </Box>
 
-        <Box sx={{ mt: 3, p: 2, bgcolor: 'background.default', borderRadius: 1 }}>
+        {/* <Box sx={{ mt: 3, p: 2, bgcolor: 'background.default', borderRadius: 1 }}>
           <Typography variant="body2" gutterBottom>
             <strong>Demo Admin Account:</strong>
           </Typography>
           <Typography variant="body2">Email: admin@movieapp.com</Typography>
           <Typography variant="body2">Password: Admin@123</Typography>
-        </Box>
+        </Box> */}
       </Paper>
     </Container>
   );
